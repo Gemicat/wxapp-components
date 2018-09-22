@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "zy-slider": "../../component/DoubleSlider/index"
+    },
+    "navigationBarTitleText": "zy-slider"
+}
